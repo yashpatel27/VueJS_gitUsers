@@ -1,7 +1,7 @@
 
 
 ## Project setup
-Open CMD on the location where package.json is located and run 
+Open CMD on the location where package.json is located and run
 ```
 npm install
 ```
